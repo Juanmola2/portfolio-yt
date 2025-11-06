@@ -1,14 +1,16 @@
 import Image from "next/image";
 import Link from "next/link";
 
+
 /**
  * Header component for the portfolio website
  * Displays the developer's name, profile picture, and social media links
  */
 export default function Header() {
     // Developer information
-    const developerName = "Goyo Cancio";
-    const jobTitle = "Software Engineer";
+    const developerName = "Juan Rodríguez Valverde";
+    const jobTitle = "Mechanical Engineer & Industrial Electronics and Automation Engineering";
+
 
     // Social media links
     const socialLinks = [

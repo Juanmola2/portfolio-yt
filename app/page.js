@@ -18,20 +18,7 @@ export default function Home() {
             technologies: ["Python", "CatiaV5", "...", "..."],
             image: "/company_logo/UMS.jpg",
         },
-        // {
-        //     title: "Analista en Prácticas",
-        //     company: "KPMG",
-        //     period: "Mar. 2023 - Ago. 2023",
-        //     description:
-        //         "Colaboración con el departamento de Estrategia (Technology Enablement) participando en proyectos de desarrollo y transformación digital para clientes corporativos. Esta experiencia me permitió adquirir una visión global del ciclo de vida de proyectos tecnológicos en entornos corporativos, decidiendo posteriormente orientar mi carrera hacia equipos más pequeños, donde pudiera tener mayor impacto directo en el desarrollo.",
-        //     technologies: [
-        //         "Quality Assurance",
-        //         "Documentación Técnica",
-        //         "Presentaciones Ejecutivas",
-        //         "Consultoría Tecnológica",
-        //     ],
-        //     image: "/company_logo/kpmg.png",
-        // },
+        
         {
             title: "Industrial Electronics and Automation Engineering",
             company: "Universidad de Vigo (UVigo)",

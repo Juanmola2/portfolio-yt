@@ -65,22 +65,7 @@ export default function Home() {
             image: "/projects_logo/blockheadapp.png",
             domain: "https://b-portfolio-alpha.vercel.app/#caracteristicas",
         },
-        // {
-        //     image: "/projects_logo/blockheadapp.png",
-        //     domain: "https://taskmanager.goyocancio.es",
-        // },
-        // {
-        //     image: "/projects_logo/blockheadapp.png",
-        //     domain: "https://travelblog.goyocancio.es",
-        // },
-        // {
-        //     image: "/projects_logo/blockheadapp.png",
-        //     domain: "https://weatherapp.goyocancio.es",
-        // },
-        // {
-        //     image: "/projects_logo/blockheadapp.png",
-        //     domain: "https://portfolio.goyocancio.es",
-        // },
+
     ];
 
     return (

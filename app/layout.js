@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "Portfolio de Goyo Cancio | Desarrollador de Software",
+    title: "Portfolio de Juan Rodríguez Valverde",
     description:
-        "Portfolio profesional de Goyo Cancio, desarrollador de software con experiencia en desarrollo web y aplicaciones móviles.",
+        "Portfolio profesional de Juan Rodriguez Valverde.",
 };
 
 export default function RootLayout({ children }) {

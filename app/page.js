@@ -65,6 +65,10 @@ export default function Home() {
             image: "/projects_logo/blockheadapp.png",
             domain: "https://b-portfolio-alpha.vercel.app/#caracteristicas",
         },
+        {
+            image: "/projects_logo/blockheadapp.png",
+            domain: "https://b-portfolio-alpha.vercel.app/#caracteristicas",
+        },
 
     ];
 

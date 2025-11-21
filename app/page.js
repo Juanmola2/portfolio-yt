@@ -183,7 +183,6 @@ export default function Home() {
                         {/* Reemplaza "TU_URL_DE_LINKEDIN" con tu enlace real */}
                         <a 
                             href="https" 
-                            target="_blank" 
                             rel="noopener noreferrer" 
                             className="flex items-center gap-2 bg-gray-200 hover:bg-gray-300 px-4 py-2 rounded-lg transition-colors text-sm font-medium"
                         >

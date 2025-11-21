@@ -16,13 +16,10 @@ export default function ProjectItem({ project }) {
     return (
         <div className="flex flex-col items-center text-center">
             {/* Wrap Image container with Link - Add hover animation */}
-            <Link
-                href={domain}
-                target="_blank"
-                rel="noopener noreferrer"
-                // Add transition and hover effect classes
-                className="block transition hover:-translate-y-2 rounded-lg"
-            >
+                <Link
+                    href={domain}
+                    className="block transition hover:-translate-y-2 rounded-lg"
+                >
                 <div className="relative w-16 h-16 md:w-20 md:h-20 rounded-lg overflow-hidden shadow-lg mb-2 border border-gray-200">
                     <Image
                         src={image}

@@ -63,7 +63,7 @@ export default function Home() {
     const projects = [
         {
             image: "/projects_logo/blockheadapp.png",
-            domain: "https://b-portfolio-alpha.vercel.app/#caracteristicas",
+            domain: "https://proyectos-pf.vercel.app",
         },
         {
             image: "/projects_logo/Titulos_Portfolio.png",
